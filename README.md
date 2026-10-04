@@ -92,7 +92,6 @@ The-Dark-House/
 
 ## Screenshots
 
-Add your final screenshots to the `screenshots` folder and replace these placeholders:
 
 ### Main Menu
 
