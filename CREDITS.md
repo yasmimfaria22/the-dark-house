@@ -18,15 +18,8 @@
 
 ## Visual and Audio Assets
 
-Before publishing the repository publicly, list the source and license for every visual or audio asset that you did not create yourself.
+Visual assets were created or adapted specifically for this project and integrated into the game by Yasmim Faria.
 
-Recommended format:
+Sound effects and ambient audio were selected and integrated as part of the game's sound design.
 
-```text
-Asset name:
-Creator/source:
-License or permission:
-Link (if applicable):
-```
-
-Do not publish third-party assets unless their license or permission allows redistribution.
+All assets used in the project are included for educational and portfolio purposes.
